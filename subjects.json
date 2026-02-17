@@ -1,0 +1,16 @@
+{
+  "subjects": [
+    {
+      "name": "GK",
+      "file": "gk.json"
+    },
+    {
+      "name": "Maths",
+      "file": "maths.json"
+    },
+    {
+      "name": "Science",
+      "file": "science.json"
+    }
+  ]
+}
