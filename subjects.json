@@ -1,16 +1,7 @@
 {
   "subjects": [
-    {
-      "name": "GK",
-      "file": "gk.json"
-    },
-    {
-      "name": "Maths",
-      "file": "maths.json"
-    },
-    {
-      "name": "Science",
-      "file": "science.json"
-    }
+    { "name": "જનરલ નોલેજ", "file": "gk.json" },
+    { "name": "ગણિત", "file": "maths.json" },
+    { "name": "વિજ્ઞાન", "file": "science.json" }
   ]
 }
